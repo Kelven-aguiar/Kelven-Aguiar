@@ -5,3 +5,4 @@ backend. Built projects using React, Next.js, TypeScript, JavaScript, Node.js, I
 knowledge in Database and validations, HTTP requests, API testing.
 I am always looking for learning and motivated to master any necessary technology
 to contribute with efficient and innovative solutions.
+Some projects are not public due to the client's choice
