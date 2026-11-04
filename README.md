@@ -1,3 +1,6 @@
-## Hi 👋 My name is Kelven Aguiar
+## Olá! Sou Kelven Aguiar 👋
 
-Software Engineer focused on systems, automation, debugging and full stack development.
+**Engenheiro de Software, Dados e IA**, com atuação em desenvolvimento de sistemas, automação, integração de tecnologias e soluções orientadas por dados.
+
+Neste GitHub compartilho meus projetos de desenvolvimento e experimentos técnicos. Também utilizo este espaço para disponibilizar **atividades práticas, exemplos de código e materiais de apoio para meus alunos**.
+
